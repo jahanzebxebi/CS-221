@@ -1,0 +1,100 @@
+.t {
+	-webkit-transform-origin: top left;
+	-moz-transform-origin: top left;
+	-o-transform-origin: top left;
+	-ms-transform-origin: top left;
+	-webkit-transform: scale(0.25);
+	-moz-transform: scale(0.25);
+	-o-transform: scale(0.25);
+	-ms-transform: scale(0.25);
+	z-index: 2;
+	position: absolute;
+	white-space: pre;
+	overflow: visible;
+}
+#t1_1{left:107px;top:177px;letter-spacing:0.1px;word-spacing:0.5px;}
+#t2_1{left:183px;top:333px;letter-spacing:0.1px;}
+#t3_1{left:162px;top:431px;letter-spacing:0.1px;}
+#t4_1{left:153px;top:530px;letter-spacing:0.1px;}
+#t5_1{left:117px;top:571px;letter-spacing:0.1px;word-spacing:-0.1px;}
+#t6_1{left:161px;top:590px;}
+#t7_1{left:108px;top:609px;letter-spacing:0.1px;}
+#t8_1{left:167px;top:687px;letter-spacing:0.1px;}
+#t9_1{left:89px;top:724px;letter-spacing:0.1px;word-spacing:-0.1px;}
+#ta_1{left:88px;top:743px;letter-spacing:0.1px;}
+#tb_1{left:171px;top:762px;letter-spacing:0.1px;}
+#tc_1{left:182px;top:824px;letter-spacing:0.2px;}
+#td_1{left:94px;top:861px;letter-spacing:0.1px;word-spacing:-0.1px;}
+#te_1{left:97px;top:880px;word-spacing:0.3px;}
+#tf_1{left:120px;top:900px;letter-spacing:0.1px;word-spacing:-0.2px;}
+#tg_1{left:204px;top:900px;}
+#th_1{left:219px;top:900px;letter-spacing:0.2px;word-spacing:-0.2px;}
+#ti_1{left:555px;top:167px;letter-spacing:0.1px;}
+#tj_1{left:527px;top:236px;letter-spacing:0.2px;word-spacing:-0.1px;}
+#tk_1{left:557px;top:255px;}
+#tl_1{left:635px;top:255px;}
+#tm_1{left:647px;top:255px;letter-spacing:0.4px;}
+#tn_1{left:411px;top:274px;word-spacing:0.2px;}
+#to_1{left:387px;top:293px;letter-spacing:0.1px;}
+#tp_1{left:500px;top:293px;letter-spacing:0.1px;}
+#tq_1{left:508px;top:312px;letter-spacing:0.1px;word-spacing:-0.1px;}
+#tr_1{left:527px;top:362px;letter-spacing:0.2px;word-spacing:-0.1px;}
+#ts_1{left:557px;top:381px;}
+#tt_1{left:635px;top:381px;}
+#tu_1{left:647px;top:381px;letter-spacing:0.4px;}
+#tv_1{left:396px;top:400px;letter-spacing:0.1px;word-spacing:-0.1px;}
+#tw_1{left:466px;top:419px;letter-spacing:0.1px;word-spacing:-0.1px;}
+#tx_1{left:553px;top:509px;letter-spacing:0.1px;}
+#ty_1{left:514px;top:578px;letter-spacing:0.2px;}
+#tz_1{left:590px;top:597px;letter-spacing:0.2px;}
+#t10_1{left:411px;top:616px;letter-spacing:0.1px;word-spacing:-0.1px;}
+#t11_1{left:507px;top:635px;letter-spacing:0.1px;word-spacing:0.1px;}
+#t12_1{left:423px;top:819px;letter-spacing:0.1px;word-spacing:0.3px;}
+#t13_1{left:396px;top:887px;letter-spacing:0.1px;word-spacing:0.1px;}
+#t14_1{left:414px;top:906px;letter-spacing:0.1px;word-spacing:-0.1px;}
+#t15_1{left:454px;top:925px;letter-spacing:0.1px;}
+
+.s1_1{
+	FONT-SIZE: 134.2px;
+	FONT-FAMILY: GillSansMT_8;
+	color: rgb(0,0,0);
+}
+
+.s2_1{
+	FONT-SIZE: 60.9px;
+	FONT-FAMILY: GillSansMT_8;
+	color: rgb(0,0,0);
+}
+
+.s3_1{
+	FONT-SIZE: 60.9px;
+	FONT-FAMILY: GillSansMT_i;
+	color: rgb(0,0,0);
+}
+
+.s4_1{
+	FONT-SIZE: 79.2px;
+	FONT-FAMILY: GillSansMT_8;
+	color: rgb(0,0,0);
+}
+
+.s5_1{
+	FONT-SIZE: 60.9px;
+	FONT-FAMILY: GillSansMT-Bold_j;
+	color: rgb(0,0,0);
+}
+
+@font-face {
+	font-family: GillSansMT_8;
+	src: url("fonts/GillSansMT_8.woff") format("woff");
+}
+
+@font-face {
+	font-family: GillSansMT_i;
+	src: url("fonts/GillSansMT_i.woff") format("woff");
+}
+
+@font-face {
+	font-family: GillSansMT-Bold_j;
+	src: url("fonts/GillSansMT-Bold_j.woff") format("woff");
+}
